@@ -1,0 +1,16 @@
+!SESSION 2019-09-01 16:28:02.261 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_152
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.net 1 0 2019-09-01 16:28:19.162
+!MESSAGE System property http.proxyHost is not set but should be 127.0.0.1.
+
+!ENTRY org.eclipse.core.net 1 0 2019-09-01 16:28:19.163
+!MESSAGE System property http.proxyPort is not set but should be 1087.
+
+!ENTRY org.eclipse.egit.core 1 0 2019-09-01 16:28:19.192
+!MESSAGE Using Apache MINA sshd as ssh client.

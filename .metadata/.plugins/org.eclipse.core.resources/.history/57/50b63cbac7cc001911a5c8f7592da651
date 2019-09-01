@@ -1,0 +1,11 @@
+package imooc;
+
+public class Psp implements IPlayGame {
+
+	@Override
+	public void play() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

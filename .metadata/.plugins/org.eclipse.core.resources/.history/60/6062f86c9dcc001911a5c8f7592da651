@@ -1,0 +1,9 @@
+package jicheng;
+
+public class Aminal {
+	public int age;
+	public int size;
+	public void eat() {
+		System.out.println("animal eat things");
+	}
+}

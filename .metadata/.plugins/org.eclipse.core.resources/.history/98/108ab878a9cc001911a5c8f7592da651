@@ -1,0 +1,17 @@
+package Shape;
+
+public class Circle extends Shape {
+
+	@Override
+	public float getCircum() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public float getArea() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

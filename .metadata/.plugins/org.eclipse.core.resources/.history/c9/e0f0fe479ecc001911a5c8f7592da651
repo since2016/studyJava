@@ -1,0 +1,6 @@
+package imooc;
+
+public class InitialDog {
+	Dog dog = new Dog();
+	Dog.eat();
+}

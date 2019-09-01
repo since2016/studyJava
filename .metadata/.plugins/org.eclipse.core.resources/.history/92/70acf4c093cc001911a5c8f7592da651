@@ -1,0 +1,12 @@
+package com.imooc;
+
+public class Telephoneclass {
+	float screen;
+	float cup;
+	public Telephoneclass() {
+		System.out.println("无参数构造方法");
+	}
+	public Telephoneclass(float ) {
+		
+	}
+}

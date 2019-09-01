@@ -1,0 +1,6 @@
+package Shape;
+
+public abstract class Shape {
+	public abstract float circle();
+	public abstract float area() ;
+}

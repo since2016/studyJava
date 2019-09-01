@@ -1,0 +1,12 @@
+package duotai;
+
+public class Car extends TransportTool {
+	public int people;
+	public Car() {
+		// TODO Auto-generated constructor stub
+		people = 10;
+	}
+	public void carry() {
+		System.out.println("Car可以运输"+this.toString()+“个人”);
+	}
+}

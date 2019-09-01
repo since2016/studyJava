@@ -1,0 +1,17 @@
+package imooc;
+
+public class SmarttPhone extends TelPhone {
+
+	@Override
+	public void call() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void message() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

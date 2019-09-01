@@ -1,0 +1,31 @@
+package Shape;
+
+public class Rectangle extends Shape {
+	public float length, width, circle, area;
+	public Rectangle() {
+		// TODO Auto-generated constructor stub
+		length = 10;
+		width = 5;
+		System.out.println("default length :"+length+" width"+width);
+	}
+	
+	public Rectangle(float length, float width) {
+		this.length = length;
+		this.width = width;
+	}
+	
+	@Override
+	public float circle() {
+		// TODO Auto-generated method stub
+		circle = 2*(this.length + this.width);
+		return circle;
+	}
+
+	@Override
+	public float area() {
+		// TODO Auto-generated method stub
+		area = this.length * this.width
+		return area;
+	}
+
+}
